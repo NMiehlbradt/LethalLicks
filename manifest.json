@@ -1,6 +1,6 @@
 {
     "name": "LethalLicks",
-    "version_number": "1.0.0",
+    "version_number": "1.1.0",
     "website_url": "https://github.com/NMiehlbradt/LethalLicks",
     "description": "A modpack for the lethaly licking lads of Brian Gang",
     "dependencies": ["Do not add dependencies here, they will be removed. This field is filled by the contents of modlist.txt"]
